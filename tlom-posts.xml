@@ -122,59 +122,53 @@
 <!-- /wp:toolset-blocks/container -->
 
 <!-- wp:toolset-blocks/container {"htmlTag":"section","style":{"padding":{"enabled":true,"paddingTop":"0px","paddingLeft":"0px","paddingRight":"0px","paddingBottom":"0px"},"id":"five-signs-your-list-become-liability","cssClasses":["tl__bp-section"],"display":true},"metadata":{"name":"Five Signs Your List Has Become a Liability"}} -->
-<section id="five-signs-your-list-become-liability" class="wp-block-toolset-blocks-container tb-container tl__bp-section" data-toolset-blocks-container="1"><!-- wp:paragraph -->
+<section id="five-signs-your-list-become-liability" class="wp-block-toolset-blocks-container tb-container tl__bp-section" data-toolset-blocks-container="1"><!-- wp:heading -->
+<h2 class="wp-block-heading">Five Signs Your List Has Become a Liability</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
 <p>Not sure whether this applies to you? Here are the tells we see most often when we audit email setups for multi-service businesses:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:toolset-blocks/container {"htmlTag":"section","style":{"padding":{"enabled":true,"paddingTop":"0px","paddingLeft":"0px","paddingRight":"0px","paddingBottom":"0px"},"id":"1-campaign-prep-takes-longer-than-campaign-creation","cssClasses":["tl__bp-section"],"display":true},"metadata":{"name":"1. Campaign prep takes longer than campaign creation"}} -->
-<section id="1-campaign-prep-takes-longer-than-campaign-creation" class="wp-block-toolset-blocks-container tb-container tl__bp-section" style="padding:0" data-toolset-blocks-container="1"><!-- wp:heading {"level":3} -->
+<!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">1. Campaign prep takes longer than campaign creation</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>If you're spending 20 minutes agonizing over who should receive each email and only 10 minutes writing it, that's a structural symptom. Your list should make targeting fast, not painful.</p>
-<!-- /wp:paragraph --></section>
-<!-- /wp:toolset-blocks/container -->
+<!-- /wp:paragraph -->
 
-<!-- wp:toolset-blocks/container {"htmlTag":"section","style":{"padding":{"enabled":true,"paddingTop":"0px","paddingLeft":"0px","paddingRight":"0px","paddingBottom":"0px"},"id":"2-you-cant-answer-our-warmest-cross-sell-prospects","cssClasses":["tl__bp-section"],"display":true},"metadata":{"name":"2. You can't answer "who are our warmest cross-sell prospects?""}} -->
-<section id="2-you-cant-answer-our-warmest-cross-sell-prospects" class="wp-block-toolset-blocks-container tb-container tl__bp-section" style="padding:0" data-toolset-blocks-container="1"><!-- wp:heading {"level":3} -->
+<!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">2. You can't answer "who are our warmest cross-sell prospects?"</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>Your active clients are your best audience for additional services. If your list can't show you which clients are engaging with content about services they don't currently buy, you're leaving revenue on the table and you can't even see it.</p>
-<!-- /wp:paragraph --></section>
-<!-- /wp:toolset-blocks/container -->
+<!-- /wp:paragraph -->
 
-<!-- wp:toolset-blocks/container {"htmlTag":"section","style":{"padding":{"enabled":true,"paddingTop":"0px","paddingLeft":"0px","paddingRight":"0px","paddingBottom":"0px"},"id":"3-churned-clients-keep-getting-wrong-emails","cssClasses":["tl__bp-section"],"display":true},"metadata":{"name":"3. Churned clients keep getting the wrong emails"}} -->
-<section id="3-churned-clients-keep-getting-wrong-emails" class="wp-block-toolset-blocks-container tb-container tl__bp-section" style="padding:0" data-toolset-blocks-container="1"><!-- wp:heading {"level":3} -->
+<!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">3. Churned clients keep getting the wrong emails</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>Someone cancels their SEO retainer and continues receiving your SEO newsletter for months because nobody updated their tags. Awkward at best, brand-damaging at worst.</p>
-<!-- /wp:paragraph --></section>
-<!-- /wp:toolset-blocks/container -->
+<!-- /wp:paragraph -->
 
-<!-- wp:toolset-blocks/container {"htmlTag":"section","style":{"padding":{"enabled":true,"paddingTop":"0px","paddingLeft":"0px","paddingRight":"0px","paddingBottom":"0px"},"id":"4-your-open-rates-flat-declining-despite-growing-list","cssClasses":["tl__bp-section"],"display":true},"metadata":{"name":"4. Your open rates are flat (or declining) despite a growing list"}} -->
-<section id="4-your-open-rates-flat-declining-despite-growing-list" class="wp-block-toolset-blocks-container tb-container tl__bp-section" style="padding:0" data-toolset-blocks-container="1"><!-- wp:heading {"level":3} -->
+<!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">4. Your open rates are flat (or declining) despite a growing list</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>According to <a href="https://www.mailerlite.com/blog/compare-your-email-performance-metrics-industry-benchmarks" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener">MailerLite's 2025 benchmarks</a>, the average open rate across industries is 43.46%. But that number means very little if you're measuring it against a list where 40% of contacts haven't engaged in six months. Your real open rate, measured against people who actually care, is probably much higher. You just can't see it because the dead weight is dragging the average down.</p>
-<!-- /wp:paragraph --></section>
-<!-- /wp:toolset-blocks/container -->
+<!-- /wp:paragraph -->
 
-<!-- wp:toolset-blocks/container {"htmlTag":"section","style":{"padding":{"enabled":true,"paddingTop":"0px","paddingLeft":"0px","paddingRight":"0px","paddingBottom":"0px"},"id":"5-youve-cleaned-your-list-before-mess-came-back","cssClasses":["tl__bp-section"],"display":true},"metadata":{"name":"5. You've "cleaned" your list before and the mess came back"}} -->
-<section id="5-youve-cleaned-your-list-before-mess-came-back" class="wp-block-toolset-blocks-container tb-container tl__bp-section" style="padding:0" data-toolset-blocks-container="1"><!-- wp:heading {"level":3} -->
+<!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">5. You've "cleaned" your list before and the mess came back</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>This is the biggest tell of all. List cleaning addresses symptoms: bounces, inactive addresses, dead contacts. But if the underlying structure is the same after the clean, the mess rebuilds itself within a few months. Cleaning without restructuring is mopping the floor with a leaking pipe overhead.</p>
 <!-- /wp:paragraph --></section>
-<!-- /wp:toolset-blocks/container --></section>
 <!-- /wp:toolset-blocks/container -->
 
 <!-- wp:toolset-blocks/container {"htmlTag":"section","style":{"padding":{"enabled":true,"paddingTop":"0px","paddingLeft":"0px","paddingRight":"0px","paddingBottom":"0px"},"id":"so-actually-needs-change","cssClasses":["tl__bp-section"],"display":true},"metadata":{"name":"So What Actually Needs to Change?"}} -->
@@ -207,8 +201,8 @@
 <!-- /wp:paragraph --></section>
 <!-- /wp:toolset-blocks/container -->]]></Content>
 		<Excerpt></Excerpt>
-		<Date>2026-03-08 22:30:02</Date>
-		<PostModifiedDate>2026-03-08 22:30:02</PostModifiedDate>
+		<Date>2026-03-08 22:38:59</Date>
+		<PostModifiedDate>2026-03-08 22:38:59</PostModifiedDate>
 		<Status>draft</Status>
 		<PostType>post</PostType>
 		<Slug>your-email-list-working-against-you</Slug>
