@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
 	<post>
+		<ID>0</ID>
 		<Title>Why Your Email List Is Working Against You</Title>
 		<Content><![CDATA[<!-- wp:toolset-blocks/container {"htmlTag":"section","style":{"padding":{"enabled":true,"paddingTop":"0px","paddingLeft":"0px","paddingRight":"0px","paddingBottom":"0px"},"id":"introduction","cssClasses":["tl__bp-section"],"display":true},"metadata":{"name":"Introduction"}} -->
 <section id="introduction" class="wp-block-toolset-blocks-container tb-container tl__bp-section" data-toolset-blocks-container="1"><!-- wp:paragraph -->
@@ -126,7 +127,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:toolset-blocks/container {"htmlTag":"section","style":{"padding":{"enabled":true,"paddingTop":"0px","paddingLeft":"0px","paddingRight":"0px","paddingBottom":"0px"},"id":"1-campaign-prep-takes-longer-than-campaign-creation","cssClasses":["tl__bp-section"],"display":true},"metadata":{"name":"1. Campaign prep takes longer than campaign creation"}} -->
-<section id="1-campaign-prep-takes-longer-than-campaign-creation" class="wp-block-toolset-blocks-container tb-container tl__bp-section" data-toolset-blocks-container="1"><!-- wp:heading {"level":3} -->
+<section id="1-campaign-prep-takes-longer-than-campaign-creation" class="wp-block-toolset-blocks-container tb-container tl__bp-section" style="padding:0" data-toolset-blocks-container="1"><!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">1. Campaign prep takes longer than campaign creation</h3>
 <!-- /wp:heading -->
 
@@ -136,7 +137,7 @@
 <!-- /wp:toolset-blocks/container -->
 
 <!-- wp:toolset-blocks/container {"htmlTag":"section","style":{"padding":{"enabled":true,"paddingTop":"0px","paddingLeft":"0px","paddingRight":"0px","paddingBottom":"0px"},"id":"2-you-cant-answer-our-warmest-cross-sell-prospects","cssClasses":["tl__bp-section"],"display":true},"metadata":{"name":"2. You can't answer "who are our warmest cross-sell prospects?""}} -->
-<section id="2-you-cant-answer-our-warmest-cross-sell-prospects" class="wp-block-toolset-blocks-container tb-container tl__bp-section" data-toolset-blocks-container="1"><!-- wp:heading {"level":3} -->
+<section id="2-you-cant-answer-our-warmest-cross-sell-prospects" class="wp-block-toolset-blocks-container tb-container tl__bp-section" style="padding:0" data-toolset-blocks-container="1"><!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">2. You can't answer "who are our warmest cross-sell prospects?"</h3>
 <!-- /wp:heading -->
 
@@ -146,7 +147,7 @@
 <!-- /wp:toolset-blocks/container -->
 
 <!-- wp:toolset-blocks/container {"htmlTag":"section","style":{"padding":{"enabled":true,"paddingTop":"0px","paddingLeft":"0px","paddingRight":"0px","paddingBottom":"0px"},"id":"3-churned-clients-keep-getting-wrong-emails","cssClasses":["tl__bp-section"],"display":true},"metadata":{"name":"3. Churned clients keep getting the wrong emails"}} -->
-<section id="3-churned-clients-keep-getting-wrong-emails" class="wp-block-toolset-blocks-container tb-container tl__bp-section" data-toolset-blocks-container="1"><!-- wp:heading {"level":3} -->
+<section id="3-churned-clients-keep-getting-wrong-emails" class="wp-block-toolset-blocks-container tb-container tl__bp-section" style="padding:0" data-toolset-blocks-container="1"><!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">3. Churned clients keep getting the wrong emails</h3>
 <!-- /wp:heading -->
 
@@ -156,7 +157,7 @@
 <!-- /wp:toolset-blocks/container -->
 
 <!-- wp:toolset-blocks/container {"htmlTag":"section","style":{"padding":{"enabled":true,"paddingTop":"0px","paddingLeft":"0px","paddingRight":"0px","paddingBottom":"0px"},"id":"4-your-open-rates-flat-declining-despite-growing-list","cssClasses":["tl__bp-section"],"display":true},"metadata":{"name":"4. Your open rates are flat (or declining) despite a growing list"}} -->
-<section id="4-your-open-rates-flat-declining-despite-growing-list" class="wp-block-toolset-blocks-container tb-container tl__bp-section" data-toolset-blocks-container="1"><!-- wp:heading {"level":3} -->
+<section id="4-your-open-rates-flat-declining-despite-growing-list" class="wp-block-toolset-blocks-container tb-container tl__bp-section" style="padding:0" data-toolset-blocks-container="1"><!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">4. Your open rates are flat (or declining) despite a growing list</h3>
 <!-- /wp:heading -->
 
@@ -166,7 +167,7 @@
 <!-- /wp:toolset-blocks/container -->
 
 <!-- wp:toolset-blocks/container {"htmlTag":"section","style":{"padding":{"enabled":true,"paddingTop":"0px","paddingLeft":"0px","paddingRight":"0px","paddingBottom":"0px"},"id":"5-youve-cleaned-your-list-before-mess-came-back","cssClasses":["tl__bp-section"],"display":true},"metadata":{"name":"5. You've "cleaned" your list before and the mess came back"}} -->
-<section id="5-youve-cleaned-your-list-before-mess-came-back" class="wp-block-toolset-blocks-container tb-container tl__bp-section" data-toolset-blocks-container="1"><!-- wp:heading {"level":3} -->
+<section id="5-youve-cleaned-your-list-before-mess-came-back" class="wp-block-toolset-blocks-container tb-container tl__bp-section" style="padding:0" data-toolset-blocks-container="1"><!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">5. You've "cleaned" your list before and the mess came back</h3>
 <!-- /wp:heading -->
 
@@ -206,8 +207,8 @@
 <!-- /wp:paragraph --></section>
 <!-- /wp:toolset-blocks/container -->]]></Content>
 		<Excerpt></Excerpt>
-		<Date>2026-03-08 21:29:48</Date>
-		<PostModifiedDate>2026-03-08 21:29:48</PostModifiedDate>
+		<Date>2026-03-08 22:30:02</Date>
+		<PostModifiedDate>2026-03-08 22:30:02</PostModifiedDate>
 		<Status>draft</Status>
 		<PostType>post</PostType>
 		<Slug>your-email-list-working-against-you</Slug>
