@@ -212,7 +212,7 @@
 		<FeaturedImage>https://totallocalonlinemarketing.com/wp-content/uploads/2026/03/Hidden-Revenue-in-Email-List.webp</FeaturedImage>
 		<Date>2026-03-09 00:00:00</Date>
 		<PostModifiedDate>2026-03-09 00:00:00</PostModifiedDate>
-		<Status>publish</Status>
+		<Status>draft</Status>
 		<PostType>post</PostType>
 		<Slug>hidden-revenue-problem-sitting-inside-your-email-list</Slug>
 		<Categories>Email Marketing</Categories>
@@ -225,5 +225,6 @@
 		<toc_cta_url>/email-marketing-audit</toc_cta_url>
 	</post>
 </data>
+
 
 
