@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
 	<post>
-		<ID>0</ID>
-		<Title>Why Your Email List Is Working Against You</Title>
+		<ID></ID>
+		<Title>The Hidden Revenue Problem Sitting Inside Your Email List</Title>
 		<Content><![CDATA[<!-- wp:toolset-blocks/container {"htmlTag":"section","style":{"padding":{"enabled":true,"paddingTop":"0px","paddingLeft":"0px","paddingRight":"0px","paddingBottom":"0px"},"id":"introduction","cssClasses":["tl__bp-section"],"display":true},"metadata":{"name":"Introduction"}} -->
 <section id="introduction" class="wp-block-toolset-blocks-container tb-container tl__bp-section" data-toolset-blocks-container="1"><!-- wp:paragraph -->
 <p>Spoiler alert (or maybe not): Your email list just might be the  most valuable underperforming asset you have. Not because of what you're paying your ESP every month. Because of what it costs you in missed revenue, wasted effort, and burnt goodwill every single time you hit send.</p>
@@ -206,7 +206,7 @@
 		<PostModifiedDate>2026-03-08 22:38:59</PostModifiedDate>
 		<Status>draft</Status>
 		<PostType>post</PostType>
-		<Slug>your-email-list-working-against-you</Slug>
+		<Slug>hidden-revenue-problem-inside-email-list</Slug>
 		<Categories>Email Marketing</Categories>
 		<Tags></Tags>
 		<rank_math_focus_keyword></rank_math_focus_keyword>
@@ -215,6 +215,7 @@
 		<AuthorID>1</AuthorID>
 	</post>
 </data>
+
 
 
 
