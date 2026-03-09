@@ -215,8 +215,8 @@
 		<Status>publish</Status>
 		<PostType>post</PostType>
 		<Slug>hidden-revenue-problem-sitting-inside-your-email-list</Slug>
-		<Categories></Categories>
-		<Tags>Email Marketing|Email List Management|Email Deliverability|List Segmentation|Email Architecture|Multi-Service Marketing</Tags>
+		<Categories>Email Marketing</Categories>
+		<Tags>List Management|Email Deliverability|List Segmentation|Email Architecture|Multi-Service Marketing</Tags>
 		<rank_math_focus_keyword>email marketing mistakes</rank_math_focus_keyword>
 		<rank_math_title>Email Marketing Mistakes — Fix Your List Structure</rank_math_title>
 		<rank_math_description>Discover the email marketing mistakes costing multi-service businesses real revenue — and why fixing your list structure is the actual solution.</rank_math_description>
@@ -225,3 +225,4 @@
 		<toc_cta_url>/email-marketing-audit</toc_cta_url>
 	</post>
 </data>
+
